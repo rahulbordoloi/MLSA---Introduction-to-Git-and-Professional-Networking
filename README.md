@@ -11,7 +11,7 @@ Workshop Presentation Link:
  - [Professional Networking](https://github.com/rahulbordoloi/MLSA---Introduction-to-Git-and-Professional-Networking/blob/master/Professional%20Networking.pptx) <br>
  - [Stduent Developer Pack](https://github.com/rahulbordoloi/MLSA---Introduction-to-Git-and-Professional-Networking/blob/master/GitHub%20Student%20Developer%20Pack.pptx) <br>
  
-Meeting Recording Link: [One Drive Link]() <br> (Yet to be Uploaded)
+Meeting Recording Link: [One Drive Link]() (Yet to be Uploaded)
 
 ## Organizers
 
@@ -24,5 +24,3 @@ Email : jasleensondhi@gmail.com, jasleen.sondhi@studentambassadors.com <br>
 
 Name : __Anisha Mohanty__ <br>
 Email : anishamohanty100@gmail.com, anisha.mohanty@studentambassadors.com <br>
-
-MLSA-Introduction-to-Azure-and-ML
