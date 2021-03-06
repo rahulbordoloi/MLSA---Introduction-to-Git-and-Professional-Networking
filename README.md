@@ -5,8 +5,13 @@
 You'll find all the materials and files used in the session here. Do contact anyone from below for any queries. 
 
 ## Links
-Workshop Presentation Link: [Github Link]() <br>
-Meeting Recording Link: [One Drive Link]() <br>
+
+Workshop Presentation Link: 
+ - [Introduction to VCS, Git and Github](https://github.com/rahulbordoloi/MLSA---Introduction-to-Git-and-Professional-Networking/blob/master/Introduction%20to%20VCS%2C%20Git%20and%20Github.pptx) <br>
+ - [Professional Networking](https://github.com/rahulbordoloi/MLSA---Introduction-to-Git-and-Professional-Networking/blob/master/Professional%20Networking.pptx) <br>
+ - [Stduent Developer Pack](https://github.com/rahulbordoloi/MLSA---Introduction-to-Git-and-Professional-Networking/blob/master/GitHub%20Student%20Developer%20Pack.pptx) <br>
+ 
+Meeting Recording Link: [One Drive Link]() <br> (Yet to be Uploaded)
 
 ## Organizers
 
