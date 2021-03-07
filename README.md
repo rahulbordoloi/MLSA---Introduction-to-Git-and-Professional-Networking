@@ -11,7 +11,7 @@ Workshop Presentation Link:
  - [Professional Networking](https://github.com/rahulbordoloi/MLSA---Introduction-to-Git-and-Professional-Networking/blob/master/Professional%20Networking.pptx) <br>
  - [Stduent Developer Pack](https://github.com/rahulbordoloi/MLSA---Introduction-to-Git-and-Professional-Networking/blob/master/GitHub%20Student%20Developer%20Pack.pptx) <br>
  
-Meeting Recording Link: [One Drive Link](aHR0cHM6Ly9zdGRudHBhcnRuZXJzLnNoYXJlcG9pbnQuY29tLzp2Oi9zL0NvbW11bml0eS9FZGhrUlpQYnVFSkluOXp2TXdMNERUNEJDVTNBUV9kMWtvVmJyWGtfaWtHbUxBP3J0aW1lPWdIZmRfblhoMkVn) <br>
+Meeting Recording Link: [One Drive Link](https://stdntpartners.sharepoint.com/sites/Community/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FCommunity%2FShared%20Documents%2FEvents%2FRecordings%2FIntroduction%20to%20Git%20and%20Professional%20Networking-20210306_172716-Meeting%20Recording%2Emp4&parent=%2Fsites%2FCommunity%2FShared%20Documents%2FEvents%2FRecordings&p=true&originalPath=aHR0cHM6Ly9zdGRudHBhcnRuZXJzLnNoYXJlcG9pbnQuY29tLzp2Oi9zL0NvbW11bml0eS9FZGhrUlpQYnVFSkluOXp2TXdMNERUNEJDVTNBUV9kMWtvVmJyWGtfaWtHbUxBP3J0aW1lPWdIZmRfblhoMkVn) <br>
 
 ## Organizers
 
