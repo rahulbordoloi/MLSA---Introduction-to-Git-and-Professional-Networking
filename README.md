@@ -11,7 +11,7 @@ Workshop Presentation Link:
  - [Professional Networking](https://github.com/rahulbordoloi/MLSA---Introduction-to-Git-and-Professional-Networking/blob/master/Professional%20Networking.pptx) <br>
  - [Stduent Developer Pack](https://github.com/rahulbordoloi/MLSA---Introduction-to-Git-and-Professional-Networking/blob/master/GitHub%20Student%20Developer%20Pack.pptx) <br>
  
-Meeting Recording Link: [One Drive Link]() (Yet to be Uploaded)
+Meeting Recording Link: [One Drive Link](aHR0cHM6Ly9zdGRudHBhcnRuZXJzLnNoYXJlcG9pbnQuY29tLzp2Oi9zL0NvbW11bml0eS9FZGhrUlpQYnVFSkluOXp2TXdMNERUNEJDVTNBUV9kMWtvVmJyWGtfaWtHbUxBP3J0aW1lPWdIZmRfblhoMkVn) <br>
 
 ## Organizers
 
